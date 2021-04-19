@@ -10,6 +10,11 @@ There are two pull requests open on this repo. Each change is in its own branch.
 * feat: add base64 endpoint
 * feat: add user-agent endpoint
 * fiat lux
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> e6508ae (feat: add base64 endpoint)
 ```
 
 _ Any errors, missing features, missing tests, or failing tests will disqualify the solution. _
@@ -18,10 +23,21 @@ _ Any errors, missing features, missing tests, or failing tests will disqualify 
 
 How to attempt this challenge:
 
+<<<<<<< HEAD
 1) Clone this repo locally
 2) Solve the challenge locally
 3) Create a new repo in your GitHub account and note the git url
 4) Set your local origin to the new git url: `git remote set-url origin ${git url}`
 5) Push your solution to the newly set origin
+=======
+
+1. Clone this repo locally
+2. Solve the challenge locally
+3. Create a new repo in your GitHub account and note the git url
+4. Set your local origin to the new git url: `git remote set-url origin ${git url}`
+5. Push your solution to the newly set origin
+
+
+>>>>>>> e6508ae (feat: add base64 endpoint)
 
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
